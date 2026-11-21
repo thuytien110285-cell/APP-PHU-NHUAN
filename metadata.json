@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Counter Hub - Chi nhánh 2 TP.HCM",
+  "description": "Cổng tương tác khách hàng tại quầy giao dịch VietinBank Chi nhánh 2 TP.HCM: Giải đáp thắc mắc, Tính lãi tiền gửi, Lịch trả nợ vay, Sản phẩm nổi bật, Điểm giao dịch, Tải iPay và Mini-game nhận quà.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
